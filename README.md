@@ -18,9 +18,7 @@ After exploring naming options like *CastAR* and *LucidDreamAR*, I intentionally
 ### Prototype & Assets
 | Component | Description | Link |
 |------------|--------------|------|
-| **Figma Prototype** | Interactive mockups (splash, home, create, evolve, share) |https://www.figma.com/design/vZOdddjltbxUjvKpd9Sekk/VibeAR?node-id=9-823&t=b0gXw4jGdQZT6lHO-1|
-
-
+| **Figma Prototype** | Interactive mockups (splash, home, create, evolve, share) |📄 [View Prototype Slides (PDF)](assets/vibear_prototype.pdf)|
 ---
 
 ### Tools
