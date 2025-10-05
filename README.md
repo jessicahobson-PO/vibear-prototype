@@ -6,18 +6,12 @@
 ---
 
 ### Overview
-**VibeAR** demonstrates how AI and AR can simplify 3D creation.  
-This prototype highlights the **Create → Evolve → Cast** journey,  
-a no-code design process built through **Figma** and **Stitch AI**,  
-and product decisions aligned with Meta’s focus on **creativity and connection**.
+**VibeAR** demonstrates how AI and AR can simplify 3D creation.This prototype highlights the **Create → Evolve → Cast** journey, a no-code design process built through **Figma** and **Stitch AI**, and product decisions aligned with Meta’s focus on **creativity and connection**.
 
 ---
 
 ### Brand Intent
-After exploring naming options like *CastAR* and *LucidDreamAR*,  
-I intentionally retained the **VibeAR** identity to emphasize  
-strategic continuity, handle availability, and audience recall.  
-This reflects a real-world PM approach to **branding through iteration**.
+After exploring naming options like *CastAR* and *LucidDreamAR*, I intentionally retained the **VibeAR** identity to emphasize strategic continuity, handle availability, and audience recall. This reflects a real-world PM approach to **branding through iteration**.
 
 ---
 
