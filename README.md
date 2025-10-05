@@ -1,8 +1,7 @@
 # VibeAR — AI + AR Creation Prototype  
 **Create. Evolve. Cast.**
 
-![VibeAR Logo](assets/vibear_logo.png)  
-*(Add your logo or splash screen here — rename the file path if needed.)*
+![VibeAR Logo](assets/Vibear_logo.png)
 
 ---
 
