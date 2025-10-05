@@ -19,7 +19,6 @@ After exploring naming options like *CastAR* and *LucidDreamAR*, I intentionally
 | Component | Description | Link |
 |------------|--------------|------|
 | **Figma Prototype** | Interactive mockups (splash, home, create, evolve, share) |https://www.figma.com/design/vZOdddjltbxUjvKpd9Sekk/VibeAR?node-id=9-823&t=b0gXw4jGdQZT6lHO-1|
-| **Stitch AI Screens** | AI-generated layout previews |https://stitch.withgoogle.com/projects/11304252198732544191?pli=1|
 
 
 ---
